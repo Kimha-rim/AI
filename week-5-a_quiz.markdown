@@ -2,8 +2,9 @@
 ***
 # AI Introduction and Future
 
-## 4. [Artificial Intelligence: Mankind's Last Invention](https://www.youtube.com/watch?v=Pls_q2aQzHg)
+## 1. [Artificial Intelligence: Mankind's Last Invention](https://www.youtube.com/watch?v=Pls_q2aQzHg)
 - Aperture
+
 바둑은 현존하는 가장 복잡한 보드 게임으로 여겨지나 이제 구글 딥마인드 알파고가 세계적 선수인 이세돌을 이겼습니다. 이것이 인상적이었던 이유는 바둑에서 10^170승의 가능한 수가 있어 관측 가능한 우주의 원자수 10^80보다 많아 예측되지 않기 때문입니다.
 알파고는 실제 사람의 데이터로 조정을 받았으나 알파고 제로는 기초 룰을 토대로 인간 지식의 제한 없이 스스로 학습하여 인간이 아닌데도 불구하고 세계 최정상에 섰습니다. 이 즉슨 바둑에는 인간이 모르는 지식이 더 많다는 것이며 AI가 개발될수록 더 있을 것입니다.
 결국 어느 순간 인류의 지능이 소수가 되는 지점이 있을 것이고 AI를 끌 수 없어 통제할 수 없게 될 겁니다.
