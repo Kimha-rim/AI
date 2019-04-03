@@ -2,8 +2,6 @@
 ***
 # AI Introduction and Future
 
-***
-
 ## 2. [How we can teach computers to make sense of our emotions](https://www.youtube.com/watch?v=hs-YuHv0vUk)  
 - Speaker: __Raphael Arar__ · Designer, researcher
 
