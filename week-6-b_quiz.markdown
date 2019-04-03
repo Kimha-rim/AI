@@ -1,12 +1,9 @@
 ## AI Core lecture Summary - Weekly 06
 ***
-
-# AI Core Lecture list
 ----------------------------------------------------------
 # AI Introduction and Future
 
-------------------------
-# AI applications
+***
 
 ## 2. [How we can teach computers to make sense of our emotions](https://www.youtube.com/watch?v=hs-YuHv0vUk)  
 - Speaker: __Raphael Arar__ · Designer, researcher
