@@ -1,6 +1,5 @@
 ## AI Core lecture Summary - Weekly 06
 ***
-----------------------------------------------------------
 # AI Introduction and Future
 
 ***
